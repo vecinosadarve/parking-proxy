@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://parking-adarve.lovable.app/$1"
+    }
+  ]
+}
